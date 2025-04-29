@@ -32,7 +32,7 @@ const Header: React.FC<HeaderProps> = ({
               <div className="flex-shrink-0 flex items-center">
                 <BrainCircuit className="h-8 w-8 text-blue-600" />
                 <span className="ml-2 text-xl font-bold text-gray-900">
-                  InterviewAI
+                  AMI
                 </span>
               </div>
             )}
